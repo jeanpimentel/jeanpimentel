@@ -2,6 +2,6 @@
 
 I'm a seasoned software engineer and proven engineering leader with 20+ years of hands-on experience, specializing in building scalable, secure, and robust applications.
 
-- 🛠  I'm currently focused on developing high-performance services and user interfaces using __Python__, __TypeScript__, and others as a __Staff Engineer/Senior Software Engineer__.
-- 👨🏻‍💻  In the last 10 years I've also worked with _Terraform_, _k8s_ and _Google Cloud Platform_ as a devops engineer and also with _Android (Java/Kotlin)_ and _iOS (ObjC/Swift)_ as a mobile engineer.
+- 💻  I'm currently focused on developing high-performance services and user interfaces using __Python__, __TypeScript__, __Vue.js__, and others as a __Senior Software Engineer__.
+- ☁️  My cloud expertise includes AWS, GCP, and modern serverless architectures like Cloudflare Workers. I also leverage GraphQL, Feature Flags, and CI/CD tools like GitHub Actions and GitLab pipelines.
 - 📫  Reach me: [🦋 @jeanpimentel.com](https://bsky.app/profile/jeanpimentel.com)
