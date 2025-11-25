@@ -1,8 +1,7 @@
 ### Hey, I'm Jean 👋🏼
 
-I'm a polyglot software engineer with a strong technical background developed along 20+ years of experience.
+I'm a seasoned software engineer and proven engineering leader with 20+ years of hands-on experience, specializing in building scalable, secure, and robust applications.
 
-- 🛠  I'm currently working with __Python__, __Java__, __JavaScript/Typescript__ and others at __CI&T__ as a __Staff Engineer/Senior Software Engineer__.
+- 🛠  I'm currently focused on developing high-performance services and user interfaces using __Python__, __TypeScript__, and others as a __Staff Engineer/Senior Software Engineer__.
 - 👨🏻‍💻  In the last 10 years I've also worked with _Terraform_, _k8s_ and _Google Cloud Platform_ as a devops engineer and also with _Android (Java/Kotlin)_ and _iOS (ObjC/Swift)_ as a mobile engineer.
-- 📚  Fun fact: I really enjoy sci-fi books although I haven't read many in the past year.
 - 📫  Reach me: [🦋 @jeanpimentel.com](https://bsky.app/profile/jeanpimentel.com)
